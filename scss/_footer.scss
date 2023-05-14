@@ -1,0 +1,24 @@
+// footer
+
+footer{
+  padding: 20px 30px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  background-color: $keyColor;
+}
+
+footer svg{
+  fill: black;
+  width: 40px;
+  margin-right: 10px;
+}
+
+footer a{
+  text-decoration: none;
+  display: block;
+  color: $trueColor;
+  font-size: 0.8rem;
+  margin-bottom: 4px;
+}

@@ -1,0 +1,15 @@
+//extends
+
+
+
+
+
+
+
+//mixins
+@mixin textos ($textLg, $weight, $color){
+  font-size: $textLg;
+  font-weight: $textBold;
+  color: $color;
+  font-family: $mainFont;
+}

@@ -1,0 +1,24 @@
+@media (width < 576px){
+    .nav{
+    
+    }
+  
+    .d-flex{
+      flex-direction: column;
+    }
+  
+    .tex-center{
+      flex-direction: column;
+    }
+
+    iframe, 
+    video, 
+    h1{
+      display: none;
+    }
+  
+    footer{
+      flex-direction: column;
+    }
+  
+  }

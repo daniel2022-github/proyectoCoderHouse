@@ -1,0 +1,14 @@
+h1, h3{
+  color: $mainColor;
+  text-align: center;
+  font-family: $mainFont;
+  font-weight: $textBold;
+  font-size: $textLg;
+}
+  
+p{
+  color: $secundaryColor;
+  font-family: $mainFont;
+  font-size: $textMd;
+  line-height: 1.6em;
+}
